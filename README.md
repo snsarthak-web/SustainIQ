@@ -66,6 +66,11 @@ http://127.0.0.1:5000
 - Fully responsive (works on mobile)
 
 ---
+## 📸 Screenshot
+
+![SustainIQ UI](screenshot.png)
+
+---
 
 ## 💡 Example Input
 
